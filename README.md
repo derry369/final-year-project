@@ -45,7 +45,7 @@ Ryu SDN controller for flow management
 
 D-ITG for traffic generation
 
-Matplotlib for plotting results
+Matplotlib for visualising results
 
 Linux tc and HTB for bandwidth control
 
